@@ -1,0 +1,28 @@
+[
+    {
+        "destinations": [
+           {
+              "id": 1,
+              "name": "Cox's Bazar",
+              "img": "https://i.ibb.co/9yhtz4n/Sajek.png",
+              "description": "Cox's Bazar is a popular seaside town in Bangladesh, known for its long sandy beach and beautiful sunsets. It is located in the south-eastern part of the country and is the longest natural sea beach in the world. The town is surrounded by lush green hills and forests, and the beach stretches for over 120 kilometers. Visitors can enjoy a variety of activities, including swimming, sunbathing, and visiting nearby Buddhist temples. Cox's Bazar is also famous for its fresh seafood, which is served in many local restaurants.",         
+              "origin": "Dhaka"
+           },
+           {
+              "id": 2,
+              "name": "Sreemangal",
+              "img": "https://i.ibb.co/Kbssrk6/Sreemongol.png",
+              "description": "Sreemangal is a scenic town in Bangladesh, known for its lush green tea gardens and exotic wildlife. It is located in the north-eastern part of the country and is often called the 'tea capital' of Bangladesh. Visitors can take a tour of the tea gardens and learn about the process of tea production, or go on a wildlife safari to see the many species of birds and animals that call Sreemangal home. The town is also famous for its delicious local cuisine, which includes a variety of traditional Bangladeshi dishes.",
+              "origin": "Dhaka"
+           },
+           {
+              "id": 3,
+              "name": "Sundarbans",
+              "img": "https://i.ibb.co/FhJwtQz/sundorbon.png",
+              "description": "The Sundarbans is a vast mangrove forest in Bangladesh, home to the Bengal tiger and a variety of unique flora and fauna. It is located in the south-western part of the country and is the largest delta in the world. Visitors can take a boat tour of the forest and see the many species of wildlife that call it home, including crocodiles, deer, and monkeys. The Sundarbans is also a UNESCO World Heritage Site and is known for its rich biodiversity and conservation efforts.",
+              "origin": "Dhaka"
+           }
+        ]
+     }
+]
+ 
